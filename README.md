@@ -6,11 +6,11 @@ This application provides the following features:
 
  
 Source Code
-https://github.com/ohyeahx1/alo_library.git
+https://github.com/alonablak/alo_library.git
 ## Quick Start
 
 ```
-git clone https://github.com/ohyeahx1/alo_library
+git clone https://github.com/alonablak/alo_library
 cd alo_library
 
 # Install dependencies
